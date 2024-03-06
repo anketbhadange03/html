@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-image: url("https://www.bhmpics.com/downloads/wallpaper-thiet-ke/1.3b8ad2c7b1be2caf24321c852103598a-scaled.jpg");
+    background-size: cover;
+}
+
+.navbar{
+    height: 90px;
+
+}
+
+ul{
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size:1.2rem;
+    font-weight: 500;
+    padding: 12px 15px;
+}
+
+li{
+    list-style-type: none;
+}
